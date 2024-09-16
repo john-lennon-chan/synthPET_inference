@@ -2,7 +2,7 @@
 Repository for inference of our submission to the autoPETIII machine learning challenge: <br/> 
 [autopet-iii.grand-challenge.org](https://autopet-iii.grand-challenge.org/autopet-iii/) 
 
-Link to paper: (https://doi.org/10.48550/arXiv.2409.08068)
+Link to paper: [https://doi.org/10.48550/arXiv.2409.08068](https://doi.org/10.48550/arXiv.2409.08068)
 
 ## datacentric-model
 This model is based on the provided 
