@@ -1,6 +1,6 @@
 ## Usage 
 
-You can build the container by running `bash build.sh`. 
+Please download the weights by this link: [https://drive.google.com/file/d/1TgQyLShReeVxePQwR7LtO_hbqouEa-kN/view?usp=sharing](https://drive.google.com/file/d/1TgQyLShReeVxePQwR7LtO_hbqouEa-kN/view?usp=sharing), and put the weight named "last.ckpt" into the folder datacentric-baseline/weights/ You can build the container by running `bash build.sh`. 
 
 ## Testing
 
